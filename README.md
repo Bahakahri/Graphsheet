@@ -1,0 +1,2 @@
+# Innovating Data Management: Spearheading Excel-like Software Development with Python and TKinter
+Led the development of an Excel-like spreadsheet software at OACA Tunisia, driving innovation in data management and analysis. Utilizing Python, including Object-Oriented Programming (OOP) principles, I constructed a robust backend to ensure data accuracy and scalability. Additionally, I crafted an comprehensive code that creates plots depending on the type of the data.
